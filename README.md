@@ -2,6 +2,7 @@
 ---
 
 The aim of this project is to develop a computer vision model that can accurately classify an image as either Coca-Cola or Pepsi with high accuracy.
+[![Open in HuggingFace](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://huggingface.co/spaces/mfandhi/cola-or-pepsi)
 
 # Library Used
 1. Pandas
@@ -13,4 +14,4 @@ The aim of this project is to develop a computer vision model that can accuratel
 7. Keras
 
 
-[![Open in HuggingFace](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://huggingface.co/spaces/mfandhi/cola-or-pepsi)
+
